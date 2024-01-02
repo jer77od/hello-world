@@ -17,11 +17,11 @@
     <br>
 
     <label for="psw"><b>Password</b></label>
-    <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
+    <input type="password" placeholder="Enter your Mom's password" name="psw" id="psw" required>
     <br>
 
     <label for="psw-repeat"><b>Repeat Password</b></label>
-    <input type="password" placeholder="Repeat PP" name="psw-repeat" id="psw-repeat" required>
+    <input type="password" placeholder="Repeat Dingus" name="psw-repeat" id="psw-repeat" required>
     <hr>
     <br>
     <p>By creating an account you agree to <a href="#">sell your soul</a>.</p>
