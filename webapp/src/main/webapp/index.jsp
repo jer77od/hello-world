@@ -13,7 +13,7 @@
     <br>
 
     <label for="email"><b>Enter eTailz</b></label>
-    <input type="text" placeholder="Enter Email" name="email" id="email" required>
+    <input type="text" placeholder="Enter Penis Size" name="email" id="email" required>
     <br>
 
     <label for="psw"><b>Password</b></label>
